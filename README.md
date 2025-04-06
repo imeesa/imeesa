@@ -1,4 +1,4 @@
-Hey, I'm Eesa! 👋
+# Hey, I'm Eesa! 👋
 
 ![Stars](https://img.shields.io/github/stars/imeesa?style=for-the-badge) ![Followers](https://img.shields.io/github/followers/imeesa?style=for-the-badge)
 
