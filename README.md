@@ -11,7 +11,7 @@ I have a personal website, with links to some people I know and other cool thing
 - https://that.was-a.win
 - https://ees4.dev
 
-You can contact me via Discord [here](https://discord.com/users/845332948524859412) (if that link doesn't work, my Discoord username is the same as my GitHub username) or by email [here](mailto:eesa@ees4.dev).
+You can contact me via Discord [here](https://discord.com/users/845332948524859412) (if that link doesn't work, my Discord username is the same as my GitHub username) or by email [here](mailto:eesa@ees4.dev).
 
 <!--
 **imeesa/imeesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
