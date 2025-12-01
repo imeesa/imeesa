@@ -2,7 +2,8 @@
 
 ![Followers](https://img.shields.io/github/followers/imeesa?style=for-the-badge) ![Stars](https://img.shields.io/github/stars/imeesa?style=for-the-badge)
 
-I'm a full-stack developer living in Toronto who's passionate about building projects with real impact.<!---- I also build server-side utilities for the likes of system administration.--->
+I'm a full-stack developer living in Toronto who's passionate about building projects with real impact.
+ <!--- I also build server-side utilities for the likes of system administration.--->
 
 I have a personal website, with links to some people I know and other cool things.
 - https://eesa.lol
